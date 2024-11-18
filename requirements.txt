@@ -1,0 +1,36 @@
+# Basic Libraries
+pandas==2.2.3
+numpy==2.0.2
+
+
+# Natural Language Processing
+nltk==3.9.1
+spacy==3.8.2
+transformers==4.46.2
+sentence-transformers==3.3.1
+
+# Machine Learning
+scikit-learn==1.5.2
+xgboost==2.1.2
+lightgbm==4.5.0
+
+# Deep Learning Frameworks (if needed)
+torch==2.5.1
+
+# Visualization
+matplotlib==3.9.2
+seaborn==0.13.2
+
+# File Handling and Data Scraping
+requests==2.32.3
+beautifulsoup4==4.12.3
+
+# Other Useful Tools
+tqdm==4.67.0
+regex==2024.11.6
+
+# Text Processing and Tokenization
+langdetect==1.0.9
+textblob==0.18.0.post0
+
+ipykernel==6.29.5
